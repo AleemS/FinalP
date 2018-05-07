@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/final-2-stay.unity
+  isLoaded: 1
+  isActive: 1
